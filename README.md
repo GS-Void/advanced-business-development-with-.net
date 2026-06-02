@@ -13,9 +13,9 @@ O sistema coleta, valida e armazena leituras de fadiga de sensores IoT (ESP32) p
 
 ## 👥 Equipe de Desenvolvimento (2TDSPO)
 
-- **Pedro Henrique Luiz Alves Duarte**
-- **Guilherme Macedo Martins**
-- **Henrique Martins**
+- **Pedro Henrique Luiz Alves Duarte RM563405**
+- **Guilherme Macedo Martins RM562396**
+- **Henrique Martins RM563620**
 
 ---
 
