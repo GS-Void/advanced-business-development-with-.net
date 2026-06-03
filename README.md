@@ -30,17 +30,10 @@ O sistema coleta, valida e armazena leituras de fadiga de sensores IoT (ESP32) p
 
 ## 📊 Diagramas
 
-### Diagrama de Arquitetura (TOGAF/ArchiMate)
-
-> Insira o link para a imagem do diagrama de arquitetura aqui.
-
 ### Modelo Entidade-Relacionamento (Classes C#)
 
 ```mermaid
-```mermaid
 classDiagram
-    direction TB
-
     class UsuarioEntity {
         <<abstract>>
         +int Id
@@ -52,7 +45,6 @@ classDiagram
 
     class PacienteEntity {
         +decimal LimiteEsforcoCritico
-        +ICollection~SessaoReabilitacaoEntity~ Sessoes
     }
 
     class FisioterapeutaEntity {
@@ -67,10 +59,6 @@ classDiagram
         +int IdFisio
         +int IdProtocolo
         +string StatusSessao
-        +PacienteEntity Paciente
-        +FisioterapeutaEntity Fisioterapeuta
-        +ProtocoloEspacialEntity Protocolo
-        +ICollection~LeituraFadigaEntity~ Leituras
     }
 
     class LeituraFadigaEntity {
@@ -79,8 +67,6 @@ classDiagram
         +int SegundoLeitura
         +int IdSensor
         +decimal PercentualDesgaste
-        +SessaoReabilitacaoEntity Sessao
-        +SensorWearableEntity Sensor
     }
 
     class SensorWearableEntity {
@@ -119,47 +105,14 @@ classDiagram
         +string StatusAntigo
     }
 
-    class TokenService {
-        -IConfiguration _configuration
-        +string GerarToken(UsuarioEntity usuario)
-    }
-
-    class ApplicationContext {
-        +DbSet~UsuarioEntity~ Usuarios
-        +DbSet~PacienteEntity~ Pacientes
-        +DbSet~FisioterapeutaEntity~ Fisioterapeutas
-        +DbSet~ProtocoloEspacialEntity~ Protocolos
-        +DbSet~SensorWearableEntity~ Sensores
-        +DbSet~SessaoReabilitacaoEntity~ Sessoes
-        +DbSet~LeituraFadigaEntity~ LeiturasFadiga
-        +DbSet~AlertaCriticoEntity~ AlertasCriticos
-        +DbSet~TelemetriaRawJsonEntity~ TelemetriaLogs
-        +DbSet~LogAuditoriaSessaoEntity~ AuditoriaSessoes
-        +OnModelCreating(ModelBuilder mb)
-    }
-
-    UsuarioEntity <|-- PacienteEntity : heranca TPT
-    UsuarioEntity <|-- FisioterapeutaEntity : heranca TPT
-
-    PacienteEntity "1" --> "0..*" SessaoReabilitacaoEntity : possui
-    FisioterapeutaEntity "1" --> "0..*" SessaoReabilitacaoEntity : supervisiona
-    SessaoReabilitacaoEntity "0..*" --> "1" ProtocoloEspacialEntity : utiliza
-    SessaoReabilitacaoEntity "1" --> "0..*" LeituraFadigaEntity : contem
-    SessaoReabilitacaoEntity "1" --> "0..*" AlertaCriticoEntity : dispara
-    LeituraFadigaEntity "0..*" --> "1" SensorWearableEntity : coletada por
-
-    TokenService ..> UsuarioEntity : usa
-    ApplicationContext ..> UsuarioEntity : gerencia
-    ApplicationContext ..> PacienteEntity : gerencia
-    ApplicationContext ..> FisioterapeutaEntity : gerencia
-    ApplicationContext ..> SessaoReabilitacaoEntity : gerencia
-    ApplicationContext ..> LeituraFadigaEntity : gerencia
-    ApplicationContext ..> AlertaCriticoEntity : gerencia
-    ApplicationContext ..> SensorWearableEntity : gerencia
-    ApplicationContext ..> ProtocoloEspacialEntity : gerencia
-    ApplicationContext ..> TelemetriaRawJsonEntity : gerencia
-    ApplicationContext ..> LogAuditoriaSessaoEntity : gerencia
-```
+    UsuarioEntity <|-- PacienteEntity
+    UsuarioEntity <|-- FisioterapeutaEntity
+    PacienteEntity "1" --> "0..*" SessaoReabilitacaoEntity
+    FisioterapeutaEntity "1" --> "0..*" SessaoReabilitacaoEntity
+    SessaoReabilitacaoEntity "0..*" --> "1" ProtocoloEspacialEntity
+    SessaoReabilitacaoEntity "1" --> "0..*" LeituraFadigaEntity
+    SessaoReabilitacaoEntity "1" --> "0..*" AlertaCriticoEntity
+    LeituraFadigaEntity "0..*" --> "1" SensorWearableEntity
 ```
 
 ---
