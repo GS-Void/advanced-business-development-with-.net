@@ -23,8 +23,7 @@ O sistema coleta, valida e armazena leituras de fadiga de sensores IoT (ESP32) p
 
 - **Apresentação e Demonstração (Vídeo 8 min):** [Insira o link do YouTube aqui]
 - **Vídeo Pitch (3 min):** [Insira o link do Pitch aqui]
-- **Deploy da API (Azure):** [Insira o link base da Azure aqui]
-- **Documentação Viva (Swagger):** [Insira o link do Swagger aqui]
+
 
 ---
 
@@ -195,7 +194,7 @@ Garantindo que requisições inválidas sejam rejeitadas antes de atingir os Con
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone (https://github.com/GS-Void/advanced-business-development-with-.net.git)
 cd Void.API
 ```
 
