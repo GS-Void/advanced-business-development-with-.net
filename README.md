@@ -22,7 +22,7 @@ O sistema coleta, valida e armazena leituras de fadiga de sensores IoT (ESP32) p
 ## 🔗 Links e Entregáveis do Projeto
 
 - **Apresentação e Demonstração (Vídeo 8 min):** [Insira o link do YouTube aqui]
-- **Vídeo Pitch (3 min):** [Insira o link do Pitch aqui]
+- **Vídeo Pitch:** https://youtube.com/shorts/3lVuHdbcFSY?si=zRvI1D1yciu95hnl 
 
 
 ---
