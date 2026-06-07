@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: app_rm563620
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=
+      - ConnectionStrings__OracleFIAP=Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=db_rm563620)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=FREEPDB1)));User Id=rm563620;Password=200207;
+    networks:
+      - void_network
+    depends_on:
+      - db
+
+  db:
+    container_name: db_rm563620
+    image: gvenzl/oracle-free:slim-faststart
+    environment:
+      - ORACLE_PASSWORD=200207
+      - APP_USER=rm563620
+      - APP_PASSWORD=200207
+    ports:
+      - "1521:1521"
+    volumes:
+      - oracle_data:/opt/oracle/oradata
+    networks:
+      - void_network
+
+volumes:
+  oracle_data:
+
+# Definição da Rede Interna
+networks:
+  void_network:
+    driver: bridge

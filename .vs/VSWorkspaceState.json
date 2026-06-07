@@ -1,15 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Void.API",
-    "\\Void.API\\Controllers",
-    "\\Void.API\\Data",
-    "\\Void.API\\DTOs",
-    "\\Void.API\\Middlewares",
-    "\\Void.API\\Models",
-    "\\Void.API\\Properties",
-    "\\Void.API\\Services"
+    "\\Void.API"
   ],
-  "SelectedNode": "\\Void.API\\Controllers\\AuthController.cs",
+  "SelectedNode": "\\Void.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
