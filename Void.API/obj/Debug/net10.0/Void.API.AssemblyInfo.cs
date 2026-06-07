@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Void.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05efa33ccab79ef07a79303376371f88359e8d53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ca34e8c11a0103078295502a2411e0ab24c5ea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Void.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Void.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
