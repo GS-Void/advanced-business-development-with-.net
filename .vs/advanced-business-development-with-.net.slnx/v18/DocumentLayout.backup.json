@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Void.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile",
+              "RelativeToolTip": "Void.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-07T20:31:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Program.cs",
               "RelativeDocumentMoniker": "Void.API\\Program.cs",
