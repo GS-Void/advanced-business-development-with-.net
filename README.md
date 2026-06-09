@@ -31,88 +31,13 @@ O sistema coleta, valida e armazena leituras de fadiga de sensores IoT (ESP32) p
 
 ### Modelo Entidade-Relacionamento (Classes C#)
 
-```mermaid
-classDiagram
-    class UsuarioEntity {
-        <<abstract>>
-        +int Id
-        +string Nome
-        +string Cpf
-        +string Email
-        +string TipoUsuario
-    }
+<div align="center">
 
-    class PacienteEntity {
-        +decimal LimiteEsforcoCritico
-    }
+<a href="https://ibb.co/VYTvjmgk"><img src="https://i.ibb.co/CKQn12bS/Chat-GPT-Image-9-de-jun-de-2026-13-22-25.png" alt="Chat-GPT-Image-9-de-jun-de-2026-13-22-25" border="0"></a>
 
-    class FisioterapeutaEntity {
-        +string RegistroProfissional
-    }
+</div>
 
-    class SessaoReabilitacaoEntity {
-        +int PacienteId
-        +DateTime DataSessao
-        +decimal DesgasteAcumulado
-        +int AlertaFadigaCritica
-        +int IdFisio
-        +int IdProtocolo
-        +string StatusSessao
-    }
-
-    class LeituraFadigaEntity {
-        +int PacienteId
-        +DateTime DataSessao
-        +int SegundoLeitura
-        +int IdSensor
-        +decimal PercentualDesgaste
-    }
-
-    class SensorWearableEntity {
-        +int Id
-        +string MacAddress
-        +string Status
-    }
-
-    class ProtocoloEspacialEntity {
-        +int Id
-        +string NomeProtocolo
-        +decimal LimiteFadigaMaxima
-    }
-
-    class AlertaCriticoEntity {
-        +int Id
-        +int PacienteId
-        +DateTime DataSessao
-        +DateTime TimestampAlerta
-        +decimal NivelAtingido
-    }
-
-    class TelemetriaRawJsonEntity {
-        +int Id
-        +int PacienteId
-        +DateTime DataSessao
-        +string DadosJson
-    }
-
-    class LogAuditoriaSessaoEntity {
-        <<Keyless>>
-        +DateTime DataHora
-        +string Acao
-        +int PacienteId
-        +DateTime DataSessao
-        +string StatusAntigo
-    }
-
-    UsuarioEntity <|-- PacienteEntity
-    UsuarioEntity <|-- FisioterapeutaEntity
-    PacienteEntity "1" --> "0..*" SessaoReabilitacaoEntity
-    FisioterapeutaEntity "1" --> "0..*" SessaoReabilitacaoEntity
-    SessaoReabilitacaoEntity "0..*" --> "1" ProtocoloEspacialEntity
-    SessaoReabilitacaoEntity "1" --> "0..*" LeituraFadigaEntity
-    SessaoReabilitacaoEntity "1" --> "0..*" AlertaCriticoEntity
-    LeituraFadigaEntity "0..*" --> "1" SensorWearableEntity
-```
+O diagrama acima representa a estrutura de entidades do sistema VOID, incluindo os relacionamentos entre pacientes, fisioterapeutas, sessões de reabilitação, protocolos espaciais, sensores wearables, leituras de fadiga, alertas críticos, telemetria bruta e auditoria de sessões.
 
 ---
 
