@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Oracle.EntityFrameworkCore;
 using System.Text;
 using Void.API.Data;
 using Void.API.Middlewares;
@@ -12,7 +13,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Configurando o Banco de Dados Oracle
 builder.Services.AddDbContext<ApplicationContext>(options =>
 {
-    options.UseOracle(builder.Configuration.GetConnectionString("OracleFIAP"));
+    options.UseOracle(
+        builder.Configuration.GetConnectionString("OracleFIAP"),
+        oracleOptions =>
+        {
+            oracleOptions.UseOracleSQLCompatibility(
+                OracleSQLCompatibility.DatabaseVersion21
+            );
+        });
 });
 
 // Registrando o TokenService na Injeção de Dependência
@@ -31,6 +39,7 @@ builder.Services.AddAuthentication(options =>
 {
     options.RequireHttpsMetadata = false;
     options.SaveToken = true;
+
     options.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
@@ -57,17 +66,22 @@ builder.Services.AddCors(options =>
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-// Configurando o Swagger para exigir o Token JWT
+// Configurando o Swagger para exigir Token JWT
 builder.Services.AddSwaggerGen(c =>
 {
     c.EnableAnnotations();
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "VOID API - Reabilitação Biométrica", Version = "v1" });
+
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "VOID API - Reabilitação Biométrica",
+        Version = "v1"
+    });
 
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Name = "Authorization",
-        Type = SecuritySchemeType.Http, 
-        Scheme = "Bearer",              
+        Type = SecuritySchemeType.Http,
+        Scheme = "Bearer",
         BearerFormat = "JWT",
         In = ParameterLocation.Header,
         Description = "Cole APENAS o seu token JWT aqui."
@@ -91,7 +105,7 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// Middleware Global de Tratamento de Erros 
+// Middleware Global de Tratamento de Erros
 app.UseMiddleware<GlobalExceptionMiddleware>();
 
 // Swagger habilitado
@@ -101,11 +115,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Habilita o CORS antes da Autenticação
+// Habilita o CORS antes da autenticação
 app.UseCors("PermitirFrontend");
 
-app.UseAuthentication(); // Verifica QUEM é o usuário
-app.UseAuthorization();  // Verifica o que ele PODE FAZER
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllers();
+
 app.Run();

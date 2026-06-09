@@ -5,7 +5,10 @@ namespace Void.API.Data
 {
     public class ApplicationContext : DbContext
     {
-        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
+        public ApplicationContext(DbContextOptions<ApplicationContext> options)
+            : base(options)
+        {
+        }
 
         public DbSet<UsuarioEntity> Usuarios { get; set; }
         public DbSet<PacienteEntity> Pacientes { get; set; }
@@ -22,27 +25,31 @@ namespace Void.API.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // 1. Configuração de Herança TPT Pura (CORREÇÃO DE EMERGÊNCIA)
+            // Herança TPT
+            modelBuilder.Entity<UsuarioEntity>()
+                .ToTable("TB_VOID_USUARIO");
 
-            // Trava a tabela pai para sempre procurar a coluna "ID"
-            modelBuilder.Entity<UsuarioEntity>().ToTable("TB_VOID_USUARIO");
-            modelBuilder.Entity<UsuarioEntity>().Property(u => u.Id).HasColumnName("ID");
+            modelBuilder.Entity<UsuarioEntity>()
+                .Property(u => u.Id)
+                .HasColumnName("ID");
 
-            // O PULO DO GATO: Usa o construtor 'tb' para alterar o nome da coluna SÓ na tabela filha
             modelBuilder.Entity<PacienteEntity>()
-                .ToTable("TB_VOID_PACIENTE", tb => tb.Property(p => p.Id).HasColumnName("ID_USUARIO"));
+                .ToTable("TB_VOID_PACIENTE",
+                    tb => tb.Property(p => p.Id)
+                    .HasColumnName("ID_USUARIO"));
 
             modelBuilder.Entity<FisioterapeutaEntity>()
-                .ToTable("TB_VOID_FISIOTERAPEUTA", tb => tb.Property(f => f.Id).HasColumnName("ID_USUARIO"));
+                .ToTable("TB_VOID_FISIOTERAPEUTA",
+                    tb => tb.Property(f => f.Id)
+                    .HasColumnName("ID_USUARIO"));
 
-            // 2. Chaves Compostas
+            // Chaves compostas
             modelBuilder.Entity<SessaoReabilitacaoEntity>()
                 .HasKey(s => new { s.PacienteId, s.DataSessao });
 
             modelBuilder.Entity<LeituraFadigaEntity>()
                 .HasKey(l => new { l.PacienteId, l.DataSessao, l.SegundoLeitura });
 
-            // 3. Relacionamentos (Foreign Keys)
             // Sessão -> Paciente
             modelBuilder.Entity<SessaoReabilitacaoEntity>()
                 .HasOne(s => s.Paciente)
@@ -61,7 +68,7 @@ namespace Void.API.Data
                 .WithMany()
                 .HasForeignKey(s => s.IdProtocolo);
 
-            // Leitura -> Sessão (FK Composta)
+            // Leitura -> Sessão
             modelBuilder.Entity<LeituraFadigaEntity>()
                 .HasOne(l => l.Sessao)
                 .WithMany(s => s.Leituras)
@@ -73,7 +80,7 @@ namespace Void.API.Data
                 .WithMany()
                 .HasForeignKey(l => l.IdSensor);
 
-            // Alerta -> Sessão (FK Composta)
+            // Alerta -> Sessão
             modelBuilder.Entity<AlertaCriticoEntity>()
                 .HasOne<SessaoReabilitacaoEntity>()
                 .WithMany()
