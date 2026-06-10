@@ -22,7 +22,7 @@ namespace Void.API.Middlewares
             }
             catch (Exception ex)
             {
-                // Se der erro em qualquer lugar cai aqui
+                // erro em qualquer lugar cai aqui
                 _logger.LogError(ex, "Ocorreu uma exceção não tratada na API.");
                 await HandleExceptionAsync(context, ex);
             }
@@ -32,7 +32,6 @@ namespace Void.API.Middlewares
         {
             context.Response.ContentType = "application/json";
 
-            // Define o status padrão como 500 
             context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
 
             // Retorna um JSON padronizado e limpo

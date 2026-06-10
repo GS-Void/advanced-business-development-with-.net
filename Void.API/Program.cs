@@ -10,7 +10,7 @@ using Void.API.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configurando o Banco de Dados Oracle
+// Banco de Dados Oracle
 builder.Services.AddDbContext<ApplicationContext>(options =>
 {
     options.UseOracle(
@@ -23,7 +23,6 @@ builder.Services.AddDbContext<ApplicationContext>(options =>
         });
 });
 
-// Registrando o TokenService na Injeção de Dependência
 builder.Services.AddScoped<TokenService>();
 
 // Configuração de Autenticação JWT
@@ -66,7 +65,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-// Configurando o Swagger para exigir Token JWT
+// Configurando o Swagger 
 builder.Services.AddSwaggerGen(c =>
 {
     c.EnableAnnotations();
@@ -105,17 +104,14 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// Middleware Global de Tratamento de Erros
 app.UseMiddleware<GlobalExceptionMiddleware>();
 
-// Swagger habilitado
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-// Habilita o CORS antes da autenticação
 app.UseCors("PermitirFrontend");
 
 app.UseAuthentication();

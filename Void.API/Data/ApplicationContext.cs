@@ -25,7 +25,7 @@ namespace Void.API.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Herança TPT
+            // Herança 
             modelBuilder.Entity<UsuarioEntity>()
                 .ToTable("TB_VOID_USUARIO");
 

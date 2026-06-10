@@ -10,7 +10,7 @@ namespace Void.API.Controllers
 {
     [Route("api/sensor")]
     [ApiController]
-    [Authorize(Roles = "Fisioterapeuta")] // Apenas profissionais gerenciam hardware
+    [Authorize(Roles = "Fisioterapeuta")]
     public class SensorController : ControllerBase
     {
         private readonly ApplicationContext _context;

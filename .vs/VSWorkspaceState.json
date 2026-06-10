@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Void.API"
+    "\\Void.API",
+    "\\Void.API\\Controllers",
+    "\\Void.API\\Data",
+    "\\Void.API\\DTOs",
+    "\\Void.API\\Middlewares",
+    "\\Void.API\\Models",
+    "\\Void.API\\Properties",
+    "\\Void.API\\Services"
   ],
-  "SelectedNode": "\\Void.API\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

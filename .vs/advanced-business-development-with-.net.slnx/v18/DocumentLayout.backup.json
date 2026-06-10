@@ -3,12 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Void.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Void.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Services\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\UsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\UsuarioEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\TelemetriaRawJsonEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\TelemetriaRawJsonEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\SessaoReabilitacaoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\SessaoReabilitacaoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\SensorWearableEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\SensorWearableEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\ProtocoloEspacialEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\ProtocoloEspacialEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\PacienteEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\PacienteEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\LogAuditoriaSessaoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\LogAuditoriaSessaoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\LeituraFadigaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\LeituraFadigaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\FisioterapeutaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\FisioterapeutaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\AlertaCriticoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Models\\AlertaCriticoEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Middlewares\\GlobalExceptionMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Middlewares\\GlobalExceptionMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\SessaoDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\DTOs\\SessaoDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\PacienteDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\DTOs\\PacienteDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\FisioterapeutaDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\DTOs\\FisioterapeutaDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\DominioDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\DTOs\\DominioDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\AuthDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\DTOs\\AuthDTOs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Data\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Data\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\TelemetriaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\TelemetriaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\SessaoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\SessaoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\SensorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\SensorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\ProtocoloController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\ProtocoloController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\PacienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\PacienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\FisioterapeutaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\FisioterapeutaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Void.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +147,430 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-10T02:00:40.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Void.API.csproj",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Void.API.csproj",
+              "RelativeDocumentMoniker": "Void.API\\Void.API.csproj",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Void.API.csproj",
+              "RelativeToolTip": "Void.API\\Void.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T02:00:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Void.API\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\docker-compose.yml",
+              "RelativeToolTip": "Void.API\\docker-compose.yml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-10T01:59:28.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Void.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\appsettings.Development.json",
+              "RelativeToolTip": "Void.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T01:59:26.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Void.API\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Services\\TokenService.cs",
+              "RelativeToolTip": "Void.API\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Void.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Void.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T01:58:55.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile",
               "RelativeDocumentMoniker": "Void.API\\Dockerfile",
               "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Dockerfile",
               "RelativeToolTip": "Void.API\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-06-07T20:31:47.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Program.cs",
               "RelativeDocumentMoniker": "Void.API\\Program.cs",
               "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Program.cs",
               "RelativeToolTip": "Void.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T20:12:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\UsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\UsuarioEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\UsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TelemetriaRawJsonEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\TelemetriaRawJsonEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\TelemetriaRawJsonEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\TelemetriaRawJsonEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\TelemetriaRawJsonEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Void.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\appsettings.json",
+              "RelativeToolTip": "Void.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T22:29:07.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessaoReabilitacaoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\SessaoReabilitacaoEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\SessaoReabilitacaoEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\SessaoReabilitacaoEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\SessaoReabilitacaoEntity.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SensorWearableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\SensorWearableEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\SensorWearableEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\SensorWearableEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\SensorWearableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:41.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProtocoloEspacialEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\ProtocoloEspacialEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\ProtocoloEspacialEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\ProtocoloEspacialEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\ProtocoloEspacialEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PacienteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\PacienteEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\PacienteEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\PacienteEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\PacienteEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogAuditoriaSessaoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\LogAuditoriaSessaoEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\LogAuditoriaSessaoEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\LogAuditoriaSessaoEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\LogAuditoriaSessaoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:20.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeituraFadigaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\LeituraFadigaEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\LeituraFadigaEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\LeituraFadigaEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\LeituraFadigaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:17.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FisioterapeutaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\FisioterapeutaEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\FisioterapeutaEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\FisioterapeutaEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\FisioterapeutaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlertaCriticoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\AlertaCriticoEntity.cs",
+              "RelativeDocumentMoniker": "Void.API\\Models\\AlertaCriticoEntity.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Models\\AlertaCriticoEntity.cs",
+              "RelativeToolTip": "Void.API\\Models\\AlertaCriticoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:58:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Void.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Void.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:57:27.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SessaoDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\SessaoDTOs.cs",
+              "RelativeDocumentMoniker": "Void.API\\DTOs\\SessaoDTOs.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\SessaoDTOs.cs",
+              "RelativeToolTip": "Void.API\\DTOs\\SessaoDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:57:22.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PacienteDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\PacienteDTOs.cs",
+              "RelativeDocumentMoniker": "Void.API\\DTOs\\PacienteDTOs.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\PacienteDTOs.cs",
+              "RelativeToolTip": "Void.API\\DTOs\\PacienteDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:57:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FisioterapeutaDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\FisioterapeutaDTOs.cs",
+              "RelativeDocumentMoniker": "Void.API\\DTOs\\FisioterapeutaDTOs.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\FisioterapeutaDTOs.cs",
+              "RelativeToolTip": "Void.API\\DTOs\\FisioterapeutaDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:57:15.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DominioDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\DominioDTOs.cs",
+              "RelativeDocumentMoniker": "Void.API\\DTOs\\DominioDTOs.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\DominioDTOs.cs",
+              "RelativeToolTip": "Void.API\\DTOs\\DominioDTOs.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:57:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\AuthDTOs.cs",
+              "RelativeDocumentMoniker": "Void.API\\DTOs\\AuthDTOs.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\DTOs\\AuthDTOs.cs",
+              "RelativeToolTip": "Void.API\\DTOs\\AuthDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:57:01.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Void.API\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Void.API\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:56:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TelemetriaController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\TelemetriaController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\TelemetriaController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\TelemetriaController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\TelemetriaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:56:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessaoController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\SessaoController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\SessaoController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\SessaoController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\SessaoController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:55:53.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\SensorController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\SensorController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:55:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProtocoloController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\ProtocoloController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\ProtocoloController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\ProtocoloController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\ProtocoloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:55:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:53:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FisioterapeutaController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\FisioterapeutaController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\FisioterapeutaController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\FisioterapeutaController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\FisioterapeutaController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAADsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:53:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Void.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hrqma\\OneDrive\\\u00C1rea de Trabalho\\advanced-business-development-with-.net\\Void.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Void.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T01:52:38.017Z",
               "EditorCaption": ""
             }
           ]

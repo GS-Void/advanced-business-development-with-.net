@@ -17,6 +17,6 @@ namespace Void.API.DTOs
     {
         public string Token { get; set; }
         public string Nome { get; set; }
-        public string Role { get; set; } // Paciente ou Fisioterapeuta
+        public string Role { get; set; } 
     }
 }

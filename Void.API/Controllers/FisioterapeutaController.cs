@@ -57,7 +57,7 @@ namespace Void.API.Controllers
         }
 
         [HttpPost]
-        [AllowAnonymous] // Permitimos cadastro sem token (para o primeiro acesso ao sistema)
+        [AllowAnonymous] // Permitimos cadastro sem token 
         [SwaggerOperation(Summary = "Cadastrar novo fisioterapeuta")]
         public async Task<IActionResult> Post([FromBody] FisioterapeutaRequestDTO model)
         {

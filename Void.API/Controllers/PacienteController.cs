@@ -69,7 +69,7 @@ namespace Void.API.Controllers
         [SwaggerOperation(Summary = "Cadastrar novo paciente", Description = "Requer token com perfil de Fisioterapeuta.")]
         public async Task<IActionResult> Post([FromBody] PacienteRequestDTO model)
         {
-            // Mapeia do DTO recebido para a Entity do Oracle
+            // DTO recebido para Oracle
             var novoPaciente = new PacienteEntity
             {
                 Nome = model.Nome,

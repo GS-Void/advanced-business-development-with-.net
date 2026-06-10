@@ -20,7 +20,6 @@ namespace Void.API.Services
             var jwtSettings = _configuration.GetSection("JwtSettings");
             var key = Encoding.ASCII.GetBytes(jwtSettings.GetValue<string>("SecretKey"));
 
-            // Definindo o papel com base no banco
             var role = usuario.TipoUsuario == "P" ? "Paciente" : "Fisioterapeuta";
 
             var tokenDescriptor = new SecurityTokenDescriptor

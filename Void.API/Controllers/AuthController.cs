@@ -27,7 +27,7 @@ namespace Void.API.Controllers
         )]
         public async Task<IActionResult> Login([FromBody] LoginRequestDTO model)
         {
-            // 1º Tenta buscar na tabela de Pacientes
+            // 1 Tenta buscar na tabela de Pacientes
             var paciente = await _context.Pacientes
                 .FirstOrDefaultAsync(p => p.Cpf == model.Cpf && p.Email == model.Email);
 
@@ -37,7 +37,7 @@ namespace Void.API.Controllers
                 return Ok(new LoginResponseDTO { Token = token, Nome = paciente.Nome, Role = "Paciente" });
             }
 
-            // 2º Se não achou, tenta buscar na tabela de Fisioterapeutas
+            // 2 Se não achou, tenta buscar na tabela de Fisioterapeutas
             var fisio = await _context.Fisioterapeutas
                 .FirstOrDefaultAsync(f => f.Cpf == model.Cpf && f.Email == model.Email);
 
